@@ -1,5 +1,4 @@
 # s5_python_1
-Will add repos as submodules later
 
 group 5130201/20101
 
@@ -7,7 +6,13 @@ group 5130201/20101
   - Alehichev
 - [1_quaternions](https://github.com/CaptainDaniels2187/lab1_Py2024_5130201-20101_gr9_ButeninDaniil)
   - TBD
-  - Butenin
+  - Alehichev
 - [1_caching_decorator](https://github.com/Melenkaa/Py2024_5130201-20101_gr9_Melenevskiy)
   - TBD
   - Melenevsky
+
+- [Book review app](https://github.com/alehichev-av/book-db)
+  - Alehichev  (frontend + readme)
+  - Melenevsky (backend)
+
+Butenin mysteriously disappeared... So we had to take his tasks and work as a team of 2.
