@@ -6,7 +6,7 @@ group 5130201/20101
   - Alehichev
 - [1_quaternions](https://github.com/alehichev-av/1_quaternions/tree/release)
   - Alehichev
-- [1_caching_decorator](https://github.com/Melenkaa/Py2024_5130201-20101_gr9_Melenevskiy_cache)
+- [1_caching_decorator](https://github.com/Melenkaa/Py2024_5130201-20101_gr9_Melenevskiy_cache/tree/release)
   - Melenevsky
 
 - [Book review app](https://github.com/alehichev-av/book-db/tree/release)
