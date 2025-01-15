@@ -2,15 +2,15 @@
 
 group 5130201/20101
 
-- [1_figures](https://github.com/alehichev-av/1_figures)
+- [1_figures](https://github.com/alehichev-av/1_figures/tree/release)
   - Alehichev
-- [1_quaternions](https://github.com/alehichev-av/1_quaternions)
+- [1_quaternions](https://github.com/alehichev-av/1_quaternions/tree/release)
   - Alehichev
-- [1_caching_decorator](https://github.com/alehichev-av/1_caching_decorator/blob/master/main.py)
+- [1_caching_decorator](https://github.com/alehichev-av/1_caching_decorator/tree/release)
   - Alehichev
   - Waiting for Melenevsky to submit his own solution. Temporarily using my solution.
 
-- [Book review app](https://github.com/alehichev-av/book-db)
+- [Book review app](https://github.com/alehichev-av/book-db/tree/release)
   - Alehichev  (frontend + readme)
   - Melenevsky (backend)
 
