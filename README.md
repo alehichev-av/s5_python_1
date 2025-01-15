@@ -6,9 +6,9 @@ group 5130201/20101
   - Alehichev
 - [1_quaternions](https://github.com/alehichev-av/1_quaternions)
   - Alehichev
-- [1_caching_decorator](https://github.com/Melenkaa/Py2024_5130201-20101_gr9_Melenevskiy)
-  - TBD
-  - Melenevsky
+- [1_caching_decorator](https://github.com/alehichev-av/1_caching_decorator/blob/master/main.py)
+  - Alehichev
+  - Waiting for Melenevsky to submit his own solution. Temporarily using my solution.
 
 - [Book review app](https://github.com/alehichev-av/book-db)
   - Alehichev  (frontend + readme)
